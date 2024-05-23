@@ -1,0 +1,8 @@
+# curl -X POST -H "Content-Type: application/json" --data '{ "query": "{ hello }" }' http://localhost:3000/graphql
+POST http://localhost:3000/graphql
+Content-Type: application/json
+
+{ "query": "{hello}" }
+
+###
+
