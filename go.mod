@@ -6,7 +6,7 @@ require (
 	github.com/gofiber/fiber/v2 v2.52.4
 	github.com/graphql-go/graphql v0.8.1
 	github.com/graphql-go/handler v0.2.4
-	github.com/valyala/fasthttp v1.53.0
+	github.com/valyala/fasthttp v1.54.0
 )
 
 require (
